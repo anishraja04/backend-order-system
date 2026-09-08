@@ -27,3 +27,7 @@ A robust, RESTful backend service for managing customers, products, and orders, 
    docker-compose up -d --build
    ```
 3. The API will be available at `http://localhost:8080/api/orders`.
+
+
+## Community
+Contributions are always welcome. See CONTRIBUTING.md for details.
